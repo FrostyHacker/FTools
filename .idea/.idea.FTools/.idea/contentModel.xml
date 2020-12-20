@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\user\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_FTools.-968605198.00" t="ExcludeRecursive" />
+    <e p="C:\Users\user\source\repos\FTools" t="IncludeFlat">
+      <e p="FTools" t="IncludeRecursive">
+        <e p="AesEncryptor.cs" t="Include" />
+        <e p="AesForm.cs" t="Include" />
+        <e p="AesForm.Designer.cs" t="Include" />
+        <e p="AesForm.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="FTools.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Xor.cs" t="Include" />
+        <e p="XorForm.cs" t="Include" />
+        <e p="XorForm.Designer.cs" t="Include" />
+        <e p="XorForm.resx" t="Include" />
+      </e>
+      <e p="FTools.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

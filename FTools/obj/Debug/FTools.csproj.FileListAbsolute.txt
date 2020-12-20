@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\FTools\FTools\bin\Debug\FTools.exe.config
+C:\Users\user\source\repos\FTools\FTools\bin\Debug\FTools.exe
+C:\Users\user\source\repos\FTools\FTools\bin\Debug\FTools.pdb
+C:\Users\user\source\repos\FTools\FTools\bin\Debug\FlatUI.dll
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.Form1.resources
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.Properties.Resources.resources
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.csproj.CopyComplete
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.exe
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.pdb
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.XorForm.resources
+C:\Users\user\source\repos\FTools\FTools\obj\Debug\FTools.AesForm.resources
